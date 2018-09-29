@@ -1,4 +1,4 @@
-# BPI-BIT Webduino  (https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](./LICENSE)
+# BPI-BIT Webduino  [![MIT](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](./LICENSE)
 
 ## BPI-BIT Webduino相关网站：
 
