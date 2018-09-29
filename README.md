@@ -25,4 +25,4 @@
 
 > #### 工具：[ESP FLASH DOWNLOAD TOOL](/Windows/FLASH_DOWNLOAD_TOOLS_V3.6.4.rar)
 
-[ESP FLASH DOWNLOAD TOOL烧录方法](/Windows/Webduino-Windows.md)
+[ESP FLASH DOWNLOAD TOOL烧录方法(Wiki)](https://github.com/BPI-STEAM/BPI-BIT-WebDuino/wiki)
