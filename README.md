@@ -14,9 +14,17 @@
 
 > 固件存放位置在[Bin](/Bin)目录下面
 
-- #### Bin目录介绍：
+- #### Bin目录介绍(仅适用于Windows)：
     + bit_default.bin : BPI-BIT板的标准Webduino固件
     + bit_stable.bin : BPI-BIT板的stable版本Webduino固件
+    + boot_app0.bin : Espressif-WROOM-32主核心驱动
+    + partitions.bin : BPI-BIT的Webduino固件分区表文件
+    + bootloader_dio_40m.bin : Espressif-WROOM-32的bootloader(适用于速度为40MHz的DIO烧录模式)
+
+- #### AutoFlash目录介绍(仅适用于Windows)：
+    + AutoErase.exe : 自动清除bit板内存脚本工具
+    + AutoFlashWebduinoBin.exe : 自动烧录bit板webduino固件脚本工具
+    + webduino.bin : BPI-BIT板的Webduino固件
     + boot_app0.bin : Espressif-WROOM-32主核心驱动
     + partitions.bin : BPI-BIT的Webduino固件分区表文件
     + bootloader_dio_40m.bin : Espressif-WROOM-32的bootloader(适用于速度为40MHz的DIO烧录模式)
@@ -25,4 +33,8 @@
 
 > #### 工具：[ESP FLASH DOWNLOAD TOOL](/Windows/FLASH_DOWNLOAD_TOOLS_V3.6.4.rar)
 
-[ESP FLASH DOWNLOAD TOOL烧录方法(Wiki)](https://github.com/BPI-STEAM/BPI-BIT-WebDuino/wiki)
+[ESP FLASH DOWNLOAD TOOL烧录方法(Wiki)](https://github.com/BPI-STEAM/BPI-BIT-WebDuino/wiki#esp-flash-download-tool)
+
+> #### Auto Flash工具：[AutoFlashWebduinoBin](/AutoFlash)
+
+[ESP FLASH DOWNLOAD TOOL烧录方法(Wiki)](https://github.com/BPI-STEAM/BPI-BIT-WebDuino/wiki#auto-flash%E5%B7%A5%E5%85%B7)
