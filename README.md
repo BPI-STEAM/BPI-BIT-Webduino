@@ -37,4 +37,4 @@
 
 > #### Auto Flash工具：[AutoFlashWebduinoBin](/AutoFlash)
 
-[ESP FLASH DOWNLOAD TOOL烧录方法(Wiki)](https://github.com/BPI-STEAM/BPI-BIT-WebDuino/wiki#auto-flash%E5%B7%A5%E5%85%B7)
+[Auto Flash工具烧录方法(Wiki)](https://github.com/BPI-STEAM/BPI-BIT-WebDuino/wiki#auto-flash%E5%B7%A5%E5%85%B7)
