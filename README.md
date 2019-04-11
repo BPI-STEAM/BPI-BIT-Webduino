@@ -21,23 +21,15 @@
     + partitions.bin : BPI-BIT的Webduino固件分区表文件
     + bootloader_dio_40m.bin : Espressif-WROOM-32的bootloader(适用于速度为40MHz的DIO烧录模式)
 
-- #### AutoFlash目录介绍(仅适用于Windows)：
-    + AutoErase.exe : 自动清除bit板内存脚本工具
-    + AutoFlashWebduinoBin.exe : 自动烧录bit板webduino固件脚本工具
-    + webduino.bin : BPI-BIT板的Webduino固件
-    + boot_app0.bin : Espressif-WROOM-32主核心驱动
-    + partitions.bin : BPI-BIT的Webduino固件分区表文件
-    + bootloader_dio_40m.bin : Espressif-WROOM-32的bootloader(适用于速度为40MHz的DIO烧录模式)
-
 ### 各个操作系统下的烧录方式：
 
 > #### 工具：[ESP FLASH DOWNLOAD TOOL](/Windows/FLASH_DOWNLOAD_TOOLS_V3.6.4.rar)(Windows)
 
 [ESP FLASH DOWNLOAD TOOL烧录方法(Wiki)](https://github.com/BPI-STEAM/BPI-BIT-WebDuino/wiki#esp-flash-download-tool)
 
-> #### Auto Flash工具：[AutoFlashWebduinoBin](/AutoFlash)(Windows)
+> #### 一键烧写工具
 
-[Auto Flash工具烧录方法(Wiki)](https://github.com/BPI-STEAM/BPI-BIT-WebDuino/wiki#auto-flash%E5%B7%A5%E5%85%B7)
+[AutoFlashWebduinoBin](https://github.com/BPI-STEAM/BPI-BIT-WebDuino/releases/tag/FlashTool)
 
 > #### ESPtool工具：[ESPtool安装(github)](https://github.com/espressif/esptool#installation--dependencies)(Windows&linux&macOS)
 
