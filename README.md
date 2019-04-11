@@ -27,10 +27,12 @@
 
 [ESP FLASH DOWNLOAD TOOL烧录方法(Wiki)](https://github.com/BPI-STEAM/BPI-BIT-WebDuino/wiki#esp-flash-download-tool)
 
-> #### 一键烧写工具
+> #### 一键烧写工具（Auto Flash Tool）
 
 [AutoFlashWebduinoBin](https://github.com/BPI-STEAM/BPI-BIT-WebDuino/releases/tag/FlashTool)
 
-> #### ESPtool工具：[ESPtool安装(github)](https://github.com/espressif/esptool#installation--dependencies)(Windows&linux&macOS)
+[Auto Flash工具烧录方法(Wiki)](https://github.com/BPI-STEAM/BPI-BIT-WebDuino/wiki#auto-flash%E5%B7%A5%E5%85%B7)
+
+> #### ESPtool 工具：[ESPtool安装(github)](https://github.com/espressif/esptool#installation--dependencies)(Windows&linux&macOS)
 
 [ESPtool介绍(github)](https://github.com/espressif/esptool)
