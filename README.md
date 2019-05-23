@@ -1,38 +1,39 @@
-# BPI-BIT Webduino  [![MIT](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](./LICENSE)
 
-## BPI-BIT Webduino相关网站：
+# &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;BPI-BIT Webduino 基础教程
 
-[中国大陆地区官方网站](https://webduino.com.cn)
+![](https://img.shields.io/badge/open%20source-bananpi-brightgreen.svg)
+![](https://img.shields.io/badge/base-JavaScript-BBAA00.svg)
+![](https://img.shields.io/badge/support-blockly-red.svg)
+![](https://img.shields.io/badge/expand-blocks-BB00EE.svg)
+![](https://img.shields.io/badge/languages-Many-00CCCC.svg)
+![](https://img.shields.io/badge/support-offilne-00BBFF.svg)
 
-[中国港澳台以及其他地区官方网站](https://webduino.io/)
+## Webduino 是什么？
 
-[BPI-BIT官方英文论坛](http://forum.banana-pi.org/c/bpi-webduino/BPI-Webduino)
+## 认识硬件
 
-[BPI-BIT官方中文论坛](https://forum.banana-pi.org.cn/c/bpi-webduino/webduino)
+### 了解硬件情况
 
-## 固件烧录：
+[BPI-BIT-Hardware](https://github.com/BPI-STEAM/BPI-BIT-Hardware)
 
-> 固件存放位置在[Bin](/Bin)目录下面
+### 如何安装驱动
 
-- #### Bin目录介绍(仅适用于Windows)：
-    + bit_default.bin : BPI-BIT板的标准Webduino固件
-    + bit_stable.bin : BPI-BIT板的stable版本Webduino固件
-    + boot_app0.bin : Espressif-WROOM-32主核心驱动
-    + partitions.bin : BPI-BIT的Webduino固件分区表文件
-    + bootloader_dio_40m.bin : Espressif-WROOM-32的bootloader(适用于速度为40MHz的DIO烧录模式)
+[Install Driver](https://github.com/BPI-STEAM/BPI-BIT-Hardware/blob/master/driver.md)
 
-### 各个操作系统下的烧录方式：
+## 直接上手
 
-> #### 工具：[ESP FLASH DOWNLOAD TOOL](/Windows/FLASH_DOWNLOAD_TOOLS_V3.6.4.rar)(Windows)
+### 获取工具
 
-- [ESP FLASH DOWNLOAD TOOL烧录方法(Wiki)](https://github.com/BPI-STEAM/BPI-BIT-WebDuino/wiki#esp-flash-download-tool)
+### 运行积木
 
-> #### 一键烧写工具（Auto Flash Tool）
+## 了解更多
 
-- [AutoFlashWebduinoBin](https://github.com/BPI-STEAM/BPI-BIT-WebDuino/releases/tag/FlashTool)
+### 载入教程
 
-- [Auto Flash工具烧录方法(Wiki)](https://github.com/BPI-STEAM/BPI-BIT-WebDuino/wiki#auto-flash%E5%B7%A5%E5%85%B7)
+### 分享案例
 
-> #### ESPtool 工具：[ESPtool安装(github)](https://github.com/espressif/esptool#installation--dependencies)(Windows&linux&macOS)
+## 进阶应用
 
-- [ESPtool介绍(github)](https://github.com/espressif/esptool)
+### 载入积木
+
+### 创造积木
