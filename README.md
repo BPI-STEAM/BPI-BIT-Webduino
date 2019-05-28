@@ -8,7 +8,6 @@
 ![](https://img.shields.io/badge/support-blockly-red.svg)
 ![](https://img.shields.io/badge/expand-blocks-BB00EE.svg)
 ![](https://img.shields.io/badge/languages-Many-00CCCC.svg)
-![](https://img.shields.io/badge/support-offilne-00BBFF.svg)
 
 ## 烧写教程
 
