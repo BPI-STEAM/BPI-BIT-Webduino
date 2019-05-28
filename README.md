@@ -15,7 +15,7 @@
 
 ## 软件支持
 
-[Webbit 安装程序](https://github.com/BPI-STEAM/BPI-BIT-MicroPython/releases/tag/DevTools)
+[Webbit 安装程序](https://github.com/BPI-STEAM/BPI-BIT-WebDuino/releases/tag/DevTools)
 
 ## 在线支持
 
