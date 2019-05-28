@@ -4,9 +4,11 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
 ![](https://img.shields.io/github/release/BPI-STEAM/BPI-BIT-Webduino.svg)
 ![](https://img.shields.io/github/license/BPI-STEAM/BPI-BIT-Webduino.svg)
-![](https://img.shields.io/badge/support-esp%20idf-red.svg)
-![](https://img.shields.io/badge/support-smartconfig-FF00FF.svg)
-![](https://img.shields.io/badge/custom-firmware-0AAAAF.svg)
+![](https://img.shields.io/badge/base-JavaScript-BBAA00.svg)
+![](https://img.shields.io/badge/support-blockly-red.svg)
+![](https://img.shields.io/badge/expand-blocks-BB00EE.svg)
+![](https://img.shields.io/badge/languages-Many-00CCCC.svg)
+![](https://img.shields.io/badge/support-offilne-00BBFF.svg)
 
 ## 烧写教程
 
