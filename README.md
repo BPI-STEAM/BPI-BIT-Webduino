@@ -13,6 +13,8 @@
 
 [刷入 Webduino 固件](https://bpi-steam-docs.readthedocs.io/zh_CN/latest/bpi-web/tutorials/flash_web.html)
 
+[Webduino 专业版文档](https://bpi-steam-docs.readthedocs.io/zh_CN/latest/bpi-web/advanced/index.html)
+
 ## 软件支持
 
 [Webbit 安装程序](https://github.com/BPI-STEAM/BPI-BIT-WebDuino/releases/tag/DevTools)
@@ -27,7 +29,7 @@
 
 ## CHANGELOG
 
-### （软件）2019623 多语言版本
+### （软件）20190623 多语言版本
 
 - 添加多语言接口（内测中），暂定快捷键为按下Ctrl+Shift+F1就可以切換到英文語系，Ctrl+Shift+F2是繁中，Ctrl+Shift+F3是簡中。 
 - 添加了 MQTT 服务器
