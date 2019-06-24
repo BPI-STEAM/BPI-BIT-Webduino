@@ -13,7 +13,7 @@
 
 [刷入 Webduino 固件](https://bpi-steam-docs.readthedocs.io/zh_CN/latest/bpi-web/tutorials/flash_web.html)
 
-[Webduino 专业版文档](https://bpi-steam-docs.readthedocs.io/zh_CN/latest/bpi-web/advanced/index.html)
+[Webduino 标准版文档](https://bpi-steam-docs.readthedocs.io/zh_CN/latest/bpi-web/advanced/index.html)
 
 ## 软件支持
 
@@ -24,8 +24,8 @@
 - [教育版积木编程网站](https://webbit.webduino.io/blockly)
 - [教育版學習手冊（繁体版）](https://tutorials.webduino.io/zh-tw/docs/webbit/index.html)
 
-- [专业版积木编程网站](https://bit.webduino.com.cn/blockly)
-- [专业版教学文件（简体版）](https://bit.webduino.com.cn/site/zh_cn/tutorials.html)
+- [标准版积木编程网站](https://bit.webduino.com.cn/blockly)
+- [标准版教学文件（简体版）](https://bit.webduino.com.cn/site/zh_cn/tutorials.html)
 
 ## CHANGELOG
 
