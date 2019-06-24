@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/expand-blocks-BB00EE.svg)
 ![](https://img.shields.io/badge/languages-Many-00CCCC.svg)
 
-## 烧写教程
+## 烧写教程 & 使用文档
 
 [刷入 Webduino 固件](https://bpi-steam-docs.readthedocs.io/zh_CN/latest/bpi-web/tutorials/flash_web.html)
 
