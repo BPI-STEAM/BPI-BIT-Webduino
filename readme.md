@@ -17,7 +17,7 @@
 
 ## 软件支持
 
-[正式发布中心](release.md) | 正式发布 Release 版本软件的地方。
+[正式发布中心](release.md)
 [Webbit 安装程序](https://github.com/BPI-STEAM/BPI-BIT-WebDuino/releases/tag/DevTools)
 
 ## 在线支持
@@ -35,6 +35,11 @@
 - 添加多语言接口（内测中），暂定快捷键为按下Ctrl+Shift+F1就可以切換到英文語系，Ctrl+Shift+F2是繁中，Ctrl+Shift+F3是簡中。 
 - 添加了 MQTT 服务器
 - 修复 WIFI 链接硬件
+
+### （固件）webbit-0.1.10_0604_01.bin
+
+- 修复网页设置 SSID 返回的错误信息
+- 修复 MQTT 服务器的配置文件
 
 ### （软件）20190529 第一个版本
 
