@@ -9,24 +9,31 @@
 ![](https://img.shields.io/badge/expand-blocks-BB00EE.svg)
 ![](https://img.shields.io/badge/languages-Many-00CCCC.svg)
 
-## 烧写教程 & 使用文档
+## 烧写教程 
 
 [刷入 Webduino 固件](https://bpi-steam-docs.readthedocs.io/zh_CN/latest/bpi-web/tutorials/flash_web.html)
 
+## 使用文档
+
 [Webduino 标准版文档](https://bpi-steam-docs.readthedocs.io/zh_CN/latest/bpi-web/advanced/index.html)
+
+- [教育版學習手冊（繁体版）](https://tutorials.webduino.io/zh-tw/docs/webbit/index.html)
+
+- [标准版教学文件（简体版）](https://bit.webduino.com.cn/site/zh_cn/tutorials.html)
 
 ## 软件支持
 
-[正式发布中心](release.md)
-[Webbit 安装程序](https://github.com/BPI-STEAM/BPI-BIT-WebDuino/releases/tag/DevTools)
+- [软件正式发布中心](release.md)
 
-## 在线支持
+- [Webbit 软件下载](https://github.com/BPI-STEAM/BPI-BIT-WebDuino/releases/tag/DevTools)
 
 - [教育版积木编程网站](https://webbit.webduino.io/blockly)
-- [教育版學習手冊（繁体版）](https://tutorials.webduino.io/zh-tw/docs/webbit/index.html)
 
 - [标准版积木编程网站](https://bit.webduino.com.cn/blockly)
-- [标准版教学文件（简体版）](https://bit.webduino.com.cn/site/zh_cn/tutorials.html)
+
+## 固件支持
+
+- [Webbit 固件下载](https://github.com/BPI-STEAM/BPI-BIT-WebDuino/releases/tag/FlashTool)
 
 ## CHANGELOG
 
