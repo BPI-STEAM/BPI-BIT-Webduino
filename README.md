@@ -17,6 +17,7 @@
 
 ## 软件支持
 
+[正式发布中心](release.md) | 正式发布 Release 版本软件的地方。
 [Webbit 安装程序](https://github.com/BPI-STEAM/BPI-BIT-WebDuino/releases/tag/DevTools)
 
 ## 在线支持
