@@ -37,6 +37,11 @@
 
 ## CHANGELOG
 
+### （固件）20190729 firmware-webbit-20190604.bin
+
+- 同步软件的固件更新，保持一致，在 [releases](https://github.com/BPI-STEAM/BPI-BIT-Webduino/releases) 提供 `FlashWebduino-20190719.zip` 
+ 一键烧写包。
+
 ### （固件）20190708 firmware-webbit-20190604.bin
 
 - 重新发布固件，烧写方式与 MicroPython 一致。
