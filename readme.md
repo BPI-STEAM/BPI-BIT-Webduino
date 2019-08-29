@@ -11,7 +11,7 @@
 
 ## 烧写教程 
 
-[刷入 Webduino 固件](https://bpi-steam-docs.readthedocs.io/zh_CN/latest/bpi-web/tutorials/flash_web.html)
+[刷入 Webduino 固件](http://doc.bpi-steam.com/zh_CN/latest/webduino/tutorials/info/update.html#id2)
 
 ## 使用文档
 
